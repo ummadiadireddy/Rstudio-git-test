@@ -6,3 +6,4 @@ str(cars)
 summary(cars)
 
 plot(cars)
+View(cars
